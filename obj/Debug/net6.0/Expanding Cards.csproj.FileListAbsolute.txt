@@ -1,0 +1,32 @@
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\bin\Debug\net6.0\appsettings.json
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\bin\Debug\net6.0\Expanding Cards.staticwebassets.runtime.json
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\bin\Debug\net6.0\Expanding Cards.exe
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\bin\Debug\net6.0\Expanding Cards.deps.json
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\bin\Debug\net6.0\Expanding Cards.runtimeconfig.json
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\bin\Debug\net6.0\Expanding Cards.dll
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\bin\Debug\net6.0\Expanding Cards.pdb
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\Expanding Cards.csproj.AssemblyReference.cache
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\Expanding Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\Expanding Cards.AssemblyInfoInputs.cache
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\Expanding Cards.AssemblyInfo.cs
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\Expanding Cards.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\Expanding Cards.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\Expanding Cards.RazorAssemblyInfo.cache
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\Expanding Cards.RazorAssemblyInfo.cs
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\staticwebassets\msbuild.Expanding Cards.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\staticwebassets\msbuild.build.Expanding Cards.props
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Expanding Cards.props
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Expanding Cards.props
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\scopedcss\bundle\Expanding Cards.styles.css
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\scopedcss\projectbundle\Expanding Cards.bundle.scp.css
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\Expanding Cards.dll
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\refint\Expanding Cards.dll
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\Expanding Cards.pdb
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\Expanding Cards.genruntimeconfig.cache
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Expanding Cards\Expanding Cards\obj\Debug\net6.0\ref\Expanding Cards.dll
